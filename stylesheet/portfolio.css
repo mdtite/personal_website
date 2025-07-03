@@ -1,4 +1,8 @@
 /***** GENERAL STYLING *****/
+
+html {
+    overscroll-behavior: none;
+}
 /* Body */
 body {
     margin: 0%  /* This ensures our site displays all the way to the edge of the browser screen */
@@ -338,15 +342,11 @@ form {
 }
 
 
-
-
-
 @media screen and (max-width: 576px) {
     p {
         font-size: 17px;
     }
 }
-
 
 
 @media screen and (max-width: 880px) {
