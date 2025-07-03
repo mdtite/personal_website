@@ -318,6 +318,13 @@ form {
         height: 190px;
         margin-top: 70px;
     }
+    .f_right {
+    float: none;
+    }
+    #Typing_Video {
+
+
+    }
 }
 
 
